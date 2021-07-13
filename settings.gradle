@@ -1,0 +1,3 @@
+rootProject.name = "Logger3"
+include ':app'
+include ':logger3'
